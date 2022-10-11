@@ -1,0 +1,2 @@
+# verbose-garbanzo
+Django blog 
